@@ -6,9 +6,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**main - Entry point of the program.
  *Retrun: 0 if the program runs without errors.
  */
+
 int main(void)
 {
 int n;
