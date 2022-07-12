@@ -7,13 +7,13 @@
 #include "main.h"
 /**
  * print_alphabet_x10 - print the alphabet 10 times
- * Return: doesn't return anything. 
+ * Return: doesn't return anything.
  */
 void print_alphabet_x10(void)
 {
 	char alphabet = 'a';
 	int counter = 1;
-	
+
 	while (counter <= 10)
 	{
 		while (alphabet <= 'z')
