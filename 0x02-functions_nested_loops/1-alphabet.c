@@ -4,6 +4,7 @@
  *followed by a new line with a function
  *Author:Faustina Honsiah <fhonsiah@gmail.com>
  */
+#include <stdio.h>
 #include "main.h"
 /**
  *print_alphabet - print alphabet
