@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *jack bauer - prints the last digit of a number
+ *void jack bauer - prints the last digit of a number
  *
  *Return: Always 0.
  */
