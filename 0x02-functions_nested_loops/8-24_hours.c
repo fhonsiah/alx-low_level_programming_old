@@ -20,7 +20,7 @@ void jack_bauer(void)
 	int minute_digit1;
 	int minute_digit2;
 
-	for (hours = 0; hours < 24; hours++)
+	for (hours = 0; hours < 24)
 	{
 		hour_digit1 = hours / 10;
 		hour_digit2 = hours % 10;
@@ -38,4 +38,5 @@ void jack_bauer(void)
 		}
 		minutes = 0; /* Reset minutes to get minutes starting from 0 */
 	}
+	hours++;
 }
