@@ -7,11 +7,11 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *void jack bauer - prints the last digit of a number
+ *void jack_bauer - prints the last digit of a number
  *
  *Return: Always 0.
  */
-void jack_bauer()
+void jack_bauer(void)
 {
 	int hours;
 	int hour_digit1;
