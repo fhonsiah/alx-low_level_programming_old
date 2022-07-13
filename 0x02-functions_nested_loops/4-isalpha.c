@@ -1,7 +1,7 @@
 /*
  *Program: 4-isalpha
  *The program prints alphabetic character,
- *returns 1 if c is a letter, lowercase 
+ *returns 1 if c is a letter, lowercase,
  *or uppercase.
  *Author:Faustina Honsiah <fhonsiah@gmail.com>
  */
