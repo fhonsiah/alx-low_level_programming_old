@@ -14,7 +14,7 @@
  *Return:the last digit of a number.
  */
 int print_last_digit(int n)
-{I
+{
 	int last_digit = n % 10;
 
 	if (n > 0)
@@ -28,3 +28,4 @@ int print_last_digit(int n)
 		return (-last_digit);
 	}
 }
+
