@@ -11,7 +11,7 @@
  *
  *Return: Always 0.
  */
-void jack_bauer(void)
+void jack_bauer()
 {
 	int hours;
 	int hour_digit1;
