@@ -7,8 +7,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *add funtion - adds the two intergers
- *
+ *add - adds the two intergers
+ *@a: first number
+ *@b: second number
  *Return: the sum of a and b
  */
 int add(int a, int b)
