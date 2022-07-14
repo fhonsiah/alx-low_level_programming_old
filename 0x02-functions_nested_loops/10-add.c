@@ -7,24 +7,11 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *int_add - function for adding numbers
+ *add funtion - adds the two intergers
  *
- *
- *
- *Return: result
+ *Return: the sum of a and b
  */
 int add(int a, int b)
 {
-    int a;
-	int b;
-	int result;
-
-	printf("Enter first number: ");
-	scanf("%d", &a);
-	printf("Enter second number: ");
-	scanf("%d", &b);
-    
-	result = a + b;
-	printf("sum of the entered numbers: %d", result);
-	return result;
+	return (a+b);
 }
