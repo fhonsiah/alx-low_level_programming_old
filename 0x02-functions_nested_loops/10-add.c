@@ -15,16 +15,16 @@
  */
 int add(int a, int b)
 {
-    int num1;
-	int num2;
+    int a;
+	int b;
 	int result;
 
 	printf("Enter first number: ");
-	scanf("%d", &num1);
+	scanf("%d", &a);
 	printf("Enter second number: ");
-	scanf("%d", &num2);
+	scanf("%d", &b);
     
-	result = num1 + num2;
+	result = a + b;
 	printf("sum of the entered numbers: %d", result);
 	return result;
 }
