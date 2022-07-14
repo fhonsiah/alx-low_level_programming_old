@@ -23,7 +23,7 @@ void times_table(void)
 
 	for (rows = 0; rows < 10; rows++)
 	{
-		for (columns = 0;column < 10; columns++)
+		for (columns = 0;columns < 10; columns++)
 		{
 			result = rows * columns;
 			first_digit = result / 10;
